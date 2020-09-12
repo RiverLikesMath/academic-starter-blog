@@ -14,5 +14,5 @@ subtitle = "and you can too!"
   color = "FFFFFF"
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 +++
