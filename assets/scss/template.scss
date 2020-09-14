@@ -42,6 +42,7 @@
 
 .content {
   background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
-}
+  height: 10em;
+}S
