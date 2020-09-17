@@ -41,7 +41,7 @@
 }
 
 .content {
-  background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
+  background: rgba(255, 255, 255, 0.6) url("/images/banner_logo.png") 100% 100% no-repeat;
   background-size: contain;
   background-position: center;
   height: 10em;
@@ -49,5 +49,7 @@
 
 .content > p {
   font-family: "Montserrat",sans-serif;
-  padding-top: 10em;
+  font-size: 1.1em;
+  padding-top: 9em;
+  font-weight: bolder;
 }
