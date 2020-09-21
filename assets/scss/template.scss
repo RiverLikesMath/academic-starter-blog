@@ -38,14 +38,16 @@
   background: #FFFFFF url("/images/banner.png") 100% 100% no-repeat;
   background-size: cover;
   background-position: center;
-  animation: float 12s ease-in-out infinite;;
-}
+  animation: float 12sse-in-out infinite;
+} ea
 
 .content {
+
   background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
   background-size: contain;
   background-position: center;
   height: 12em;
+  animation: inversefloat 12s ease-in-out infinite;
 }
 
 .content > p {
@@ -61,6 +63,18 @@
   }
   50% {
     transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+
+@keyframes inversefloat {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(20px);
   }
   100% {
     transform: translatey(0px);
