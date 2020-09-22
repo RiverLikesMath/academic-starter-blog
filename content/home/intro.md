@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = ""
-subtitle = "And you can too!"
+subtitle = ""
 
 [design.background]
   # Background color.
