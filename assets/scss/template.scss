@@ -41,6 +41,11 @@
   animation: float 12s ease-in-out infinite;
 }
 
+.outer-content {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
 .content {
   background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
   background-size: contain;
@@ -59,7 +64,7 @@
 
 .content > p {
   font-family: "Montserrat",sans-serif;
-  font-size: 1em;
+  font-size: 1.1em;
   padding-top: 12em;
   font-weight: bolder;
 }
