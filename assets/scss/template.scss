@@ -66,7 +66,7 @@
   font-family: "Montserrat",sans-serif;
   font-size: 1.1em;
   padding-top: 9.5em;
-  font-weight: bolder;
+
 }
 
 @keyframes float {
@@ -91,4 +91,8 @@
   100% {
     transform: translatey(0px);
   }
+}
+
+.powered-by {
+  display: none;
 }
