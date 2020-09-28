@@ -33,3 +33,62 @@
   line-height: 1.25em;
   letter-spacing: -0.05em;
 }
+
+#intro {
+  background: transparent url("/images/banner_alt.png") 100% 100% no-repeat;
+  background-size: cover;
+  background-position: center;
+  animation: float 12s ease-in-out infinite;
+}
+
+.outer-content {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.content {
+  background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 12em;
+  animation: inversefloat 12s ease-in-out infinite;
+}
+
+.dark-logo {
+  background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 12em;
+  animation: inversefloat 12s ease-in-out infinite;
+}
+
+.content > p {
+  font-family: "Montserrat",sans-serif;
+  font-size: 1.1em;
+  padding-top: 9.5em;
+
+}
+
+@keyframes float {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}
+
+@keyframes inversefloat {
+  0% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(20px);
+  }
+  100% {
+    transform: translatey(0px);
+  }
+}

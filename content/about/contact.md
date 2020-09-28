@@ -24,4 +24,3 @@ email_form = 2
 [design]
   columns = "1"
 +++
-

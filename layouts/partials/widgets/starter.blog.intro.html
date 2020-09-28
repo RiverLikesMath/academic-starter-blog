@@ -1,11 +1,18 @@
 {{ $st := .page }}
-<div class="content">
-  {{with $st.Title}}
-    <header>
-      <h2>{{.}}</h2>
-    </header>
-  {{end}}
-  {{with $st.Params.subtitle}}
-    <p>{{ .|markdownify|emojify }}</p>
-  {{end}}
+<div class="outer-content">
+  <div class="content">
+    {{with $st.Title}}
+      <header>
+        <h2>{{.}}</h2>
+      </header>
+    {{end}}
+    {{with $st.Params.subtitle}}
+      <p>{{ .|markdownify|emojify }}</p>
+    {{end}}
+  </div>
 </div>
+<script>
+  if (document.body.classList.contains('dark') == true) {
+      document.querySelector("#intro > div > div > div").classList.add("dark-logo");
+  }
+</script>
