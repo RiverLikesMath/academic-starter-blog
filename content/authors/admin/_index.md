@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: River Espinosa
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Private Tutor
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Welcome to my site! Please pardon our dust, it's under construction. 
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- we're putting in some placeholder info for now, this isn't complete yet! 
 
 #education:
 #  courses:
