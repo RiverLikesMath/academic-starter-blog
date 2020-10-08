@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Academic
+title: This website is under construction! Please pardon our dust! 
 date: 2019-07-12
 math: true
 diagram: true
@@ -7,6 +7,8 @@ image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
+
+My current website is over at https://www.likesmath.com . This'll be the main website soon! 
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 
