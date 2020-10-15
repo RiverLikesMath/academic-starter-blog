@@ -62,7 +62,8 @@ social:
 #- Visitors
 ---
 
-Hello! This site is still under construction, including my about me page! I've got some writing and web development to do! 
+Hello! This site is still under construction, including my about me page. I've got some writing and web development to do! 
+
 I'm River, a tutor and educator. I've worked with countless students over the past 15 years, and I specialize in math, science, and computer programming. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
