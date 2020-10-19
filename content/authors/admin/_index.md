@@ -70,7 +70,7 @@ I tutor in person in Northern California, and offer remote tutoring to students 
 * Students in every grade, in college, and people who are looking to add to their professional skillsets.
 * Neurodivergent students, including students with autism and ADHD. 
 
-I began teaching 15 years ago because I wanted to share my love of math. Since then, I've worked mainly as a private tutor, but also have a ton of experience in the front of classrooms, working in after school programs, and working as a small group teacher for struggling students.   
+I began teaching 15 years ago because I wanted to share my love of math. Since then, I've worked mainly as a private tutor, but also have a ton of experience in the front of the classroom, working in after school programs, and working as a small group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
 
 Every lesson is customized for each student's strengths and needs. I can help you learn calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, master early counting and shapes, and so much more. 
 
