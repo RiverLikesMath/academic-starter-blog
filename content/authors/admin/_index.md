@@ -62,8 +62,20 @@ social:
 #- Visitors
 ---
 
-Hello! This site is still under construction, including my about me page. I've got some writing and web development to do! 
+For 15 years, I've been helping students of every background unlock their potential. My specialties are math, science, and programming, but I also help with reading, writing, and study skills. 
 
-I'm River, a tutor and educator. I've worked with countless students over the past 15 years, and I specialize in math, science, and computer programming. 
+I tutor in person in Northern california, and offer remote tutoring to students around the US and internationally. I do individual tutoring, but also teach group lessons and can help with pod learning. My long career in education has given me the skills I need to work with:
 
+* Young students (as young as four), students in their 80s, and everyone in between. 
+* Students in every grade, in college, and people who are looking to add to their professional skillsets.
+* Neurodivergent students, including students with autism and ADHD. 
+
+I began teaching 15 years ago because I wanted to share my love of math. Since then, I've worked mainly as a private tutor, but also have a ton of experience in the front of classrooms, working in after school programs, and teaching small groups.
+
+Every lesson is customized for each student's strengths and needs. Whether you want to learn calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, or master early counting and shapes, I've got you covered. 
+
+To book out a session or find out more, fill out the [contact form](#contact) below! 
+
+ 
+   
 
