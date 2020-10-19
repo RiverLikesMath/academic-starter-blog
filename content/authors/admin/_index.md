@@ -64,17 +64,17 @@ social:
 
 For 15 years, I've been helping students of every background unlock their potential. My specialties are math, science, and programming, but I also help with reading, writing, and study skills. 
 
-I tutor in person in Northern california, and offer remote tutoring to students around the US and internationally. I do individual tutoring, but also teach group lessons and can help with pod learning. My long career in education has given me the skills I need to work with:
+I tutor in person in Northern California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and can help with distance learning and  pod learning. My long career in education has given me the skills I need to work with:
 
 * Young students (as young as four), students in their 80s, and everyone in between. 
 * Students in every grade, in college, and people who are looking to add to their professional skillsets.
 * Neurodivergent students, including students with autism and ADHD. 
 
-I began teaching 15 years ago because I wanted to share my love of math. Since then, I've worked mainly as a private tutor, but also have a ton of experience in the front of classrooms, working in after school programs, and teaching small groups.
+I began teaching 15 years ago because I wanted to share my love of math. Since then, I've worked mainly as a private tutor, but also have a ton of experience in the front of classrooms, working in after school programs, and working as a small group teacher for struggling students.   
 
-Every lesson is customized for each student's strengths and needs. Whether you want to learn calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, or master early counting and shapes, I've got you covered. 
+Every lesson is customized for each student's strengths and needs. I can help you learn calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, master early counting and shapes, and so much more. 
 
-To book out a session or find out more, fill out the [contact form](#contact) below! 
+To book out a session or for more info, fill out the [contact form](#contact) below! 
 
  
    
