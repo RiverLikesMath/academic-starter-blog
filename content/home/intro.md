@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = ""
-subtitle = ""
+subtitle = "[Personalized Professional Tutoring](about#contact)"
 
 [design.background]
   # Background color.
