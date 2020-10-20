@@ -38,7 +38,7 @@
   background: transparent url("/images/banner_alt.png") 100% 100% no-repeat;
   background-size: cover;
   background-position: center;
-  animation: float 12s ease-in-out infinite;
+//  animation: float 12s ease-in-out infinite;
   height:15em;
 }
 
@@ -49,16 +49,15 @@
 
 .content {
   background: transparent url("/images/banner_logo.png") no-repeat;
-  background-size: 80%;
+  background-size: contain;
   background-position: top;
-  animation: inversefloat 12s ease-in-out infinite;
+//  animation: inversefloat 12s ease-in-out infinite;
 }
 
 .dark-logo {
   background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
-  background-size: 76%;
+  background-size: contain;
   background-position: center;
-  animation: inversefloat 12s ease-in-out infinite;
 }
 
 .content > p {
