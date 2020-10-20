@@ -65,10 +65,12 @@
 .content > p {
   font-family: "Montserrat",sans-serif;
   font-size: 1.1em;
-  padding-top: 9.5em;
 
 }
 
+.content > header {
+  padding-top: 9.5em
+}
 @keyframes float {
   0% {
     transform: translatey(0px);
