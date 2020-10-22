@@ -35,10 +35,14 @@
 }
 
 #intro {
-  background: transparent url("/images/banner_alt.png") 100% 100% no-repeat;
+  background: url("/images/banner_alt.png") repeat;
+  align-items: center; 
+  display: flex; 
+  overflow: hidden;
+  transform-style: preserve-3d;
   background-size: cover;
   background-position: center;
-  animation: float 12s ease-in-out infinite;
+  animation: float ease-in-out 42s infinite;
 }
 
 .outer-content {
@@ -51,7 +55,6 @@
   background-size: contain;
   background-position: center;
   height: 9em;
-  animation: inversefloat 12s ease-in-out infinite;
 }
 
 .dark-logo {
@@ -59,40 +62,25 @@
   background-size: contain;
   background-position: center;
   height: 9em;
-  animation: inversefloat 12s ease-in-out infinite;
 }
 
 
 .subtitle {
-  animation: inversefloat 12s ease-in-out infinite;
   text-align: center;
 }
 
 .action-button {
-  animation: inversefloat 12s ease-in-out infinite;
   text-align: center;
 }
 
 @keyframes float {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(-20px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
-}
-
-@keyframes inversefloat {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(20px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
+	0% {
+		background-position: 0%;
+	}
+	50% {
+		background-position: 75%; 
+	}
+	100% {
+		background-position: 0%;
+	}
 }
