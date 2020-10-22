@@ -42,7 +42,7 @@
   transform-style: preserve-3d;
   background-size: cover;
   background-position: center;
-  animation: float ease-in-out 42s infinite;
+  animation: float 92s infinite;
 }
 
 .outer-content {
@@ -57,6 +57,9 @@
   height: 9em;
 }
 
+.cta-btns {
+	text-align:center;
+}
 .dark-logo {
   background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
   background-size: contain;
