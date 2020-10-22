@@ -74,6 +74,11 @@
   text-align: center;
 }
 
+.action-button {
+  animation: inversefloat 12s ease-in-out infinite;
+  text-align: center;
+}
+
 @keyframes float {
   0% {
     transform: translatey(0px);
