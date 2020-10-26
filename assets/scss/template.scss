@@ -40,7 +40,7 @@
   display: flex; 
   overflow: hidden;
   transform-style: preserve-3d;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   animation: float 92s infinite;
 }
