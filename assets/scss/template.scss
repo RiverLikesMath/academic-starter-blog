@@ -35,10 +35,14 @@
 }
 
 #intro {
-  background: transparent url("/images/banner_alt.png") 100% 100% no-repeat;
+  background: url("/images/banner_alt.png") repeat;
+  align-items: center; 
+  display: flex; 
+  overflow: hidden;
+  transform-style: preserve-3d;
   background-size: cover;
   background-position: center;
-  animation: float 12s ease-in-out infinite;
+  animation: float 92s infinite;
 }
 
 .outer-content {
@@ -50,45 +54,36 @@
   background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
   background-size: contain;
   background-position: center;
-  height: 12em;
-  animation: inversefloat 12s ease-in-out infinite;
+  height: 9em;
 }
 
+.cta-btns {
+	text-align:center;
+}
 .dark-logo {
   background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
   background-size: contain;
   background-position: center;
-  height: 12em;
-  animation: inversefloat 12s ease-in-out infinite;
+  height: 9em;
 }
 
-.content > p {
-  font-family: "Montserrat",sans-serif;
-  font-size: 1.1em;
-  padding-top: 9.5em;
 
+.subtitle {
+  text-align: center;
+}
+
+.action-button {
+  text-align: center;
 }
 
 @keyframes float {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(-20px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
-}
-
-@keyframes inversefloat {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(20px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
+	0% {
+		background-position: 0%;
+	}
+	50% {
+		background-position: 75%; 
+	}
+	100% {
+		background-position: 0%;
+	}
 }
