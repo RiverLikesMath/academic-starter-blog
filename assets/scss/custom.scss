@@ -27,6 +27,11 @@
 .subtitle {
   animation: inversefloat 12s ease-in-out infinite;
   text-align: center;
+  margin: 0 18% 0 18%;
+}
+
+.subtitle > h2 {
+  background-color: #090a0b;
 }
 
 .action-button {
