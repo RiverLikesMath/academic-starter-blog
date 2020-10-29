@@ -49,6 +49,26 @@
   text-align: center;
 }
 
+.btn-light {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-light:hover {
+  background-color: #e8e6e6;
+  border-color: #e8e6e6;
+}
+
+.btn-primary {
+  background-color: #090a0b;
+  border-color: #090a0b;
+}
+
+.btn-primary:hover {
+  background-color: #252a2e;
+  border-color: #252a2e;
+}
+
 @keyframes float {
   0% {
     background-position: 0%;
