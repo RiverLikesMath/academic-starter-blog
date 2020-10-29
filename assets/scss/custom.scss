@@ -24,6 +24,7 @@
 .cta-btns {
   text-align:center;
 }
+
 .dark-logo {
   background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
   background-size: contain;
@@ -37,6 +38,10 @@
 }
 
 .subtitle > header > h2 {
+  background-color: #fff;
+}
+
+.dark-subtitle > header > h2 {
   background-color: #090a0b;
 }
 
