@@ -16,3 +16,7 @@
 [[main]]
 name = "Contact Us"
 url = "about/#contact" 
+
+[[main]]
+name = "Testimonials"
+url = "testimonials"
