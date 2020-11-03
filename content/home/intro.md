@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
-title = "Personalized Professional Tutoring Services"
+title = "Personalized Professional Tutoring"
 subtitle = ""
 
 [design.background]
