@@ -25,7 +25,7 @@
   text-align:center;
 }
 
-.dark-logo {
+.dark .content {
   background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
   background-size: contain;
   background-position: center;
@@ -41,7 +41,7 @@
   background-color: #fff;
 }
 
-.dark-subtitle > header > h2 {
+.dark .subtitle > header > h2 {
   background-color: #090a0b;
 }
 
@@ -60,7 +60,7 @@
 }
 
 .btn-primary {
-  background-color: #090a0b;
+  background-color: #666666;
   border-color: #090a0b;
 }
 
