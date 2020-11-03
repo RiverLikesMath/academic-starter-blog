@@ -1,0 +1,82 @@
+#intro {
+  background: url("/images/banner_alt.png") repeat;
+  align-items: center;
+  display: flex;
+  overflow: hidden;
+  transform-style: preserve-3d;
+  background-size: contain;
+  background-position: center;
+  animation: float 92s infinite;
+}
+
+.outer-content {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.content {
+  background: transparent url("/images/banner_logo.png") 100% 100% no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 9em;
+}
+
+.cta-btns {
+  text-align:center;
+}
+
+.dark-logo {
+  background: transparent url("/images/banner_logo_dark.png") 100% 100% no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 9em;
+}
+
+.subtitle {
+  text-align: center;
+  margin: 0 18% 0 18%;
+}
+
+.subtitle > header > h2 {
+  background-color: #fff;
+}
+
+.dark-subtitle > header > h2 {
+  background-color: #090a0b;
+}
+
+.action-button {
+  text-align: center;
+}
+
+.btn-light {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-light:hover {
+  background-color: #e8e6e6;
+  border-color: #e8e6e6;
+}
+
+.btn-primary {
+  background-color: #090a0b;
+  border-color: #090a0b;
+}
+
+.btn-primary:hover {
+  background-color: #252a2e;
+  border-color: #252a2e;
+}
+
+@keyframes float {
+  0% {
+    background-position: 0%;
+  }
+  50% {
+    background-position: 75%;
+  }
+  100% {
+    background-position: 0%;
+  }
+}
