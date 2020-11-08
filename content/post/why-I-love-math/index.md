@@ -32,12 +32,10 @@ When I was young, I didn’t know that math could be scary. The first time someo
 
 But I love math! When I sat down to write this post, I actually got a bit of writer’s block. Where do I even start? There’s so much! Math is an escape, a refuge, a challenge, a companion, and a guide to the world. It's beautiful, exciting, and wonderful. To be honest, I couldn’t fit my love of math into one blog post. So, in this first post, I'll talk about what drew me to math as a kid.
 
-From the moment they’re born, children are wired to learn. They love to find patterns, draw connections, reason, and jump to conclusions. I’ve met very few kindergarteners who were afraid of math. On the contrary, they’re some of my favorite people to talk to about it! They dive headfirst into the ideas I’m sharing with them. Figuring out how to count by twos is an adventure. Figuring out how five and ten go together is awesome. Figuring out the difference between a square and a circle becomes an animated discussion.
+From the moment they’re born, children are wired to learn. I’ve met very few kindergarteners who were afraid of math. On the contrary, they’re some of my favorite people to talk to about it! They dive headfirst into the ideas I’m sharing with them. Figuring out how to count by twos is an adventure. Figuring out how five and ten go together is awesome. Figuring out the difference between a square and a circle becomes an animated discussion.
 
 
-{{ caption "My first encounter with infinity." }}
-
-![Antrea Kubernetes nodes prepared](/vertical_logo.png)
+{{< figure src="./placeholder.png" caption="My first encounter with infinity.">}}
 
 I was no different. Math had an endless series of patterns, puzzles, and ideas for me to dive into. Every time I solved a question or figured something out, I got a rush. This thrill - the thrill of learning - drives a lot of what kids do. And, while I did much more than solve equations when I was a kid - don’t get me started on Super Mario World or summer music camp - math was always a place of joy for me. There was always another question to answer, another problem to solve, another pattern to decipher, another thrill to chase. I could ask questions - and there were answers! I could find the answers by myself, or talk to someone else about them.
 
