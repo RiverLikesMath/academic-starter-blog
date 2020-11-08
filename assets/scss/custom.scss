@@ -1,9 +1,8 @@
 #intro {
-  background: url("/images/banner_alt.png") repeat;
+  background: url("/images/banner_alt.png"); 
   align-items: center;
   display: flex;
   overflow: hidden;
-  transform-style: preserve-3d;
   background-size: contain;
   background-position: center;
   animation: float 92s infinite;
@@ -52,12 +51,12 @@
 
 .dark .btn-primary {
   background-color: #ffffff;
-  border-color: #ffffff;
+  border-color: #666666;
 }
 
 .dark .btn-primary:hover {
   background-color: #e8e6e6;
-  border-color: #e8e6e6;
+  border-color: #666666;
 }
 
 .btn-primary {
@@ -72,10 +71,10 @@
 
 @keyframes float {
   0% {
-    background-position: 0%;
+    background-position: 0em;
   }
   50% {
-    background-position: 75%;
+    background-position: 44em;
   }
   100% {
     background-position: 0%;
