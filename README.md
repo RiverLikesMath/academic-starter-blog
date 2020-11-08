@@ -1,1 +1,1 @@
-This is the code and content for my website, www.riverlikesmath.com. It's run off of Academic/Wowchemy and Hugo. Currently not in production, but we'll get there! 
+This is the code and content for my website, www.riverlikesmath.com. It's run off of Academic/Wowchemy and Hugo. The Beta/First draft is going up on Sunday, November 8th! Heading to production pretty soon.
