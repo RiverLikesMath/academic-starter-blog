@@ -1,5 +1,6 @@
 ---
 title: Testimonials
+section_pager: false
 ---
 
 "River has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child." *--Juliean C* 
