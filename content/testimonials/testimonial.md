@@ -1,7 +1,8 @@
----
-title: Testimonials
-type: widget_page
----
++++
+
+weight = 20  # Order that this section will appear in.
+
++++
 
 "River has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child." *--Juliean C* 
 
@@ -19,7 +20,7 @@ type: widget_page
 
 ---
 
-"River exceeded all expectations. Her students went into their respective AP exams feeling well-prepared and confident. More importantly - the students *came out* of the exams feeling the same way... In short, River is a rising star in science education." --*Ken M* 
+"River exceeded all expectations. Her students went into their respective AP exams feeling well-prepared and confident. More importantly - the students *came out* of the exams feeling the same way ... In short, River is a rising star in science education." --*Ken M* 
 
 ---
 

@@ -64,7 +64,7 @@ social:
 
 For 15 years, I've been helping students of every background unlock their potential. My specialties are math, science, and programming, but I also help with reading, writing, and study skills. 
 
-I tutor in person in Sant Rosa, California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and help with distance learning and pod learning. I can work with:
+I tutor in person in Santa Rosa, California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and help with distance learning and pod learning. I can work with:
 
 * Young students (as young as four), students in their 80s, and everyone in between. 
 * Students in every grade, in college, and people who are looking to add to their professional skillsets.
