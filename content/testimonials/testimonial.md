@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear in.
 
 ---
 
-"I've been looking for a long time for someone who can explain calculus to me as clearly as you did. You made higher math accessible and sensible where it was jargon and frustration before. --*"Sarah R, Subject: Calculus*  
+"I've been looking for a long time for someone who can explain calculus to me as clearly as you did. You made higher math accessible and sensible where it was jargon and frustration before. --*"Sarah R, Subject: Calculus"*  
 
 --- 
 
