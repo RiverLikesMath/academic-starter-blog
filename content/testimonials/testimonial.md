@@ -6,10 +6,13 @@ weight = 20  # Order that this section will appear in.
 
 "River has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child." *--Juliean C, Subject: Elementary School Math* 
 
+<<<<<<< HEAD
 ---
 
 "I've been looking for a long time for someone who can explain calculus to me as clearly as you can. I look at math completely differently after working with you. --*"Sarah R, Subject: Calculus*  
 
+=======
+>>>>>>> 5fee6008386aba079dad06a14813b802a40120bb
 --- 
 
 "River is very passionate about the subjects she teaches, actively studying most of them herself. She is as enthusiastic about sharing the understanding she gathers, able to patiently enumerate concepts in a myriad of ways until they click for the student. I couldn't recommend anyone more highly." -- *Steven D, Subjects: Physics, Calculus, and Mathematical Logic / Set Theory* 
