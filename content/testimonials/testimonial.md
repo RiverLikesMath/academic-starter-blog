@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear in.
 
 ---
 
-"I've been looking for a long time for someone who can explain calculus to me as clearly as you did. You made higher math accessible and sensible where it was jargon and frustration before. --*"Sarah R, Subject: Calculus"*  
+"I've been looking for a long time for someone who can explain calculus to me as clearly as you did. You made higher math accessible and sensible where it was jargon and frustration before." --*Sarah R, Subject: Calculus*  
 
 --- 
 
@@ -16,7 +16,7 @@ weight = 20  # Order that this section will appear in.
 
 ---
 
-"River has an ability to understand what students' needs are and how to meet them on multiple levels. River has a strong understanding of math and she has the ability, and the know-how, to create lessons which are stimulating and creative." *-- Kent C, Subjectis: Algebra and Pre-Algebra*
+"River has an ability to understand what students' needs are and how to meet them on multiple levels. River has a strong understanding of math and she has the ability, and the know-how, to create lessons which are stimulating and creative." *-- Kent C, Subjects: Algebra and Pre-Algebra*
 
 ---
 
