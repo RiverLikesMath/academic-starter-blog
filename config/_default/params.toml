@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "River Likes Math"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Private tutoring: Math, science, and programming help. We serve K-12 students, university students, programmers, developers, and other professionals."
+description = "Personalized, professional tutoring: We help with math, science, and programming. Serving K-12 students, university students, programmers, developers, and other professionals."
 
 ############################
 ## Site Features
