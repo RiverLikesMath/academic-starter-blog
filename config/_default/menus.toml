@@ -14,9 +14,9 @@
   weight = 20
 
 [[main]]
-name = "Contact Us"
+name = "Contact Me"
 url = "about/#contact" 
-weight = 30
+weight = 60
 
 [[main]]
 name = "Testimonials"
@@ -27,3 +27,4 @@ weight = 40
 name = "Blog"
 url = "post"
 weight = 50
+
