@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-When I was young, I didn’t know that math could be scary. The first time someone told me they hate math, I was really surprised. Yet it's the most common thing people say when I tell them about my profession."Oh, that's really cool! I hate math."
+When I was young, I didn’t know that math could be scary. The first time someone told me they hate math, I was really surprised. Yet it's the most common thing people say when I tell them about my profession. "Oh, that's really cool! I hate math."
 
 Me? I love math. When I sat down to write this post, I actually got a bit of writer’s block. Where do I even start? There’s so much! Math is an escape, a refuge, a challenge, a companion, and a guide to the world. It's beautiful, exciting, and wonderful.   
 
@@ -43,7 +43,4 @@ There was always another question to answer, another problem to solve, another p
 {{< figure src="./numberplay.png" caption="Number exploration similar to what I did as a kid" alt="Various multiplication facts, with doodles and the words cool and yay.">}}
 
 I still get that same thrill I did when I was five. Studying differential geometry doesn’t feel that different than learning how to count. All those people I talk to, the ones who tell me they hate math? I think that many of them loved it once, long ago. So what happened between now and then? I’ve got a few ideas. In particular, I’ve got a theory about the 7th grade. Stay tuned! 
-
-
-
 
