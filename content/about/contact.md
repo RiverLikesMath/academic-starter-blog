@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = ""
+title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
@@ -22,5 +22,5 @@ email_form = 1
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 
 [design]
-  columns = "1"
+  columns = "2"
 +++

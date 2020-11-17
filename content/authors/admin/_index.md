@@ -14,7 +14,7 @@ role: Private Tutor
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: River has been a tutor and educator for 15 years. She specializes in teaching math, programming, and science, but also helps with reading, writing, and study skills. 
+bio: River has been a tutor and educator for 15 years. She specializes in teaching math, programming, and science, but also helps with reading, writing, and study skills.  
 
 #interests:
 #- we're putting in some placeholder info for now, this isn't complete yet! 
@@ -67,12 +67,12 @@ For 15 years, I've been helping students of every background unlock their potent
 I tutor in person in Santa Rosa, California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and help with distance learning and pod learning. I can work with:
 
 * Young students (as young as four), students in their 80s, and everyone in between. 
-* Students in every grade, in college, and people who are looking to add to their professional skillsets.
+* People who are looking to add to their professional skillsets.
 * Neurodivergent students, including students with autism and ADHD. 
 
-Over the last 15 years, I've worked mainly as a private tutor, but also have a ton of experience in the front of the classroom, working in after school programs, and working as a small group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
+I work mainly as a private tutor, but also have a ton of experience in the front of the classroom, working in after school programs, and working as a small group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
 
-Every lesson is customized for each student's strengths and needs. I can help you learn calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, master early counting and shapes, and so much more. 
+Every lesson is customized for each student's strengths and needs. I can help you or your child learn advanced topics like calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, or master earlier topics like pre-algebra, early counting, or shapes.   
 
 To book out a session or for more info, fill out the [contact form](#contact) below! 
 
