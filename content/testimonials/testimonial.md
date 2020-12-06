@@ -12,6 +12,9 @@ weight = 20  # Order that this section will appear in.
 
 --- 
 
+![A boy holding a magnet to a tree](testimonial.png)
+
+
 "River is very passionate about the subjects she teaches, actively studying most of them herself. She is as enthusiastic about sharing the understanding she gathers, able to patiently enumerate concepts in a myriad of ways until they click for the student. I couldn't recommend anyone more highly." -- *Steven D, Subjects: Physics, Calculus, and Mathematical Logic / Set Theory* 
 
 ---
