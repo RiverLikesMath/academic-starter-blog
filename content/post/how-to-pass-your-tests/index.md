@@ -5,7 +5,7 @@ title: "How to Pass Your Tests"
 subtitle: ""
 summary: "So, you’ve got a test coming up soon. You’ve done the best you can to prepare. Now what do you do?"
 authors: []
-tags: [Math, Science, Programming, Study Skills]
+tags: [Study Skills]
 categories: []
 date: 2020-12-09T11:17:22-08:00
 lastmod: 2020-12-09T11:17:22-08:00
