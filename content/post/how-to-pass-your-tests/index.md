@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-So, you've got a test coming up soon. You've done the best you can to prepare. Now what do you do? 
+So, you've got a test coming up soon. You've done the best you can to prepare. Now what do you do?
 
 I've had a lot of practice giving day-before-the-test advice.  Here's what I tell my students:  
 
