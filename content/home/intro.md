@@ -18,7 +18,7 @@ subtitle = ""
 
 [cta]
   url = "about/#contact"
-  label = "Contact Me"
+  label = "Contact me for more info"
   icon_pack = "fas"
   icon = "envelope"
 +++
