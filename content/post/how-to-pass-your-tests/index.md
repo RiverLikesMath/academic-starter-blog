@@ -55,15 +55,6 @@ I've had a lot of practice giving day-before-the-test advice.  Here's what I tel
 * Show your work! Showing your thinking and reading the questions carefully can help your grade significantly. 
 * Check your work when you’re done. If you’re really not sure whether or not to change an answer, leave it. 
 
-* Try your best! I've seen so many students leave points on the table because they gave up. You might feel like it's not worth it to try. Do your best anyways!  
-* It's natural to think about your grade during the test, but do your best to focus on answering questions and solving problems. It's your teacher's job to give you a grade. Your job is to answer the questions.  
-* If you're stressed, that can show up as tension in the body. Students often tense their shoulders when testing, let them drop.
-* Read the whole test first. Pick the easiest questions to start with.
-* Manage your time! If something’s taking too long, come back to it later.
-* Read instructions and questions carefully.
-* Show your work! Showing your thinking and reading the questions carefully can help your grade significantly.
-* Check your work when you’re done. If you’re really not sure whether or not to change an answer, leave it.
-
  Good luck, and have fun on your next test!
 (I know, I know. But it's possible, I swear!) 
 
