@@ -17,8 +17,8 @@ subtitle = ""
   text_color_light = false
 
 [cta]
-  url = "about/#contact"
-  label = "Contact me for more info"
+  url = "about"
+  label = "More info"
   icon_pack = "fas"
-  icon = "envelope"
+  icon = "book"
 +++
