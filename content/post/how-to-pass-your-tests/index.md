@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-So, you've got a test coming up soon. You've done the best you can to prepare. Now what do you do?
+So, you've got a test coming up soon. You've done the best you can to prepare. *Now* what do you do?
 
 A big part of my job is helping students prepare for tests. I've had a lot of practice giving day-before-the-test advice. Here's what I tell my students:  
 
@@ -56,7 +56,6 @@ A big part of my job is helping students prepare for tests. I've had a lot of pr
 * Read instructions and questions carefully.
 * Show your work! Showing your thinking and reading the questions carefully can help your grade significantly.
 * Check your work when you’re done. If you’re really not sure whether or not to change an answer, leave it.
-
 
 Good luck, and have fun on your next test!
 (I know, I know. But it's possible, I swear!)
