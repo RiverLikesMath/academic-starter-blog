@@ -4,18 +4,17 @@ weight = 20  # Order that this section will appear in.
 
 +++
 
-"River has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child." *--Juliean C, Subject: Elementary School Math* 
+"River has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child." *--Juliean C, Subject: Elementary School Math*
 
 ---
 
 "I've been looking for a long time for someone who can explain calculus to me as clearly as you did. You made higher math accessible and sensible where it was jargon and frustration before." --*Sarah R, Subject: Calculus*  
 
---- 
+---
 
-![A boy holding a magnet to a tree](testimonial.png)
+{{< figure src="testimonial.png" caption="Image courtesy of Kimberly Clunie" alt="A picture of a boy holding a magnet to a tree, looking thoughtful.">}}
 
-
-"River is very passionate about the subjects she teaches, actively studying most of them herself. She is as enthusiastic about sharing the understanding she gathers, able to patiently enumerate concepts in a myriad of ways until they click for the student. I couldn't recommend anyone more highly." -- *Steven D, Subjects: Physics, Calculus, and Mathematical Logic / Set Theory* 
+"River is very passionate about the subjects she teaches, actively studying most of them herself. She is as enthusiastic about sharing the understanding she gathers, able to patiently enumerate concepts in a myriad of ways until they click for the student. I couldn't recommend anyone more highly." -- *Steven D, Subjects: Physics, Calculus, and Mathematical Logic / Set Theory*
 
 ---
 
@@ -23,8 +22,8 @@ weight = 20  # Order that this section will appear in.
 
 ---
 
-"River exceeded all expectations. Her students went into their respective AP exams feeling well-prepared and confident. More importantly - the students *came out* of the exams feeling the same way ... In short, River is a rising star in science education." --*Ken M, Subject: AP Physics* 
+"River exceeded all expectations. Her students went into their respective AP exams feeling well-prepared and confident. More importantly - the students *came out* of the exams feeling the same way ... In short, River is a rising star in science education." --*Ken M, Subject: AP Physics*
 
 ---
 
-[Contact us](/about#contact.md) for more info or to book a session. 
+[Contact us](/about#contact.md) for more info or to book a session.
