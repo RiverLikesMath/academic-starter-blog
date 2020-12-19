@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: '"Lego Bricks" by [Brandon Esham](https://www.flickr.com/photos/48763139@N00/2432400623) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich).'
+  caption: '"Lego Bricks" by [Benjamin Esham](https://www.flickr.com/photos/48763139@N00/2432400623) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich).'
   focal_point: ""
   preview_only: false
 
