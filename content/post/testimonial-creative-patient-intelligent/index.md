@@ -41,8 +41,8 @@ She often had my children out doing science experiments, and learning together, 
 
 {{< figure src="beyblade.jpeg" caption="I used more than just legos! We played all sorts of games as we learned." alt="A beyblade, a small circular toy.">}}
 
-One of my favorite professional moments ever happened when I was worked with these two children. Each session, I’d start by teaching them separately and then, usually,  I’d work with them together. When I walked in, the first question I’d ask is “Ok, who’s going first?” Usually, one kid would volunteer. But, one morning, when I asked who’s going first, one of them said “Me!”  Then the other said, “No, Mom said I'm going first!”
+One of my favorite professional moments ever happened when I was worked with these two children. Each session, I’d start by teaching them separately and then, usually,  I’d work with them together. When I walked in, the first question I’d ask is “Ok, who’s going first?” Usually, one kid would volunteer. But, one morning, when I asked who’s going first, one of them said “Me!”. Then the other said, “No, Mom said I'm going first!”
 
 I stopped them and checked with Mom before it turned into an argument, but the sheer enthusiasm they both showed for learning brought a big smile to my face.
 
-Of course, if you're looking a for a creative, patient, intelligent tutor who can help your kids have some fun while they learn, [contact me!](about/#contact)
+And finally, of  course, if you're looking for a creative, patient, intelligent tutor who can help your kids have some fun while they learn, [contact me!](about/#contact)
