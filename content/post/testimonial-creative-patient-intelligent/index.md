@@ -33,16 +33,15 @@ While I have [some testimonials](testimonials) over on my testimonial page, here
 
 “River tutored my 10 year old son and my seven year old daughter. River has the ability to work with students in all areas, though she was particularly strong in math and science for my children. She is creative, she is patient, and of course she is intelligent.
 
-She has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child. My son is quite studious. For my son, River was firm, and River was able to motivate him to really want to improve. Under River’s tutelage, my son improved greatly as the months went by. As proof of River’s success, my son recently scored a 98% on the SSAT exam!
+She has an uncanny ability to assess how a child learns, and then individualize her teaching methods to obtain the best results from that child. My son is quite studious. For my son, River was firm, and River was able to motivate him to really want to improve. Under River’s tutelage, my son improved greatly as the months went by. As proof of River’s success, my son scored a 98% on the SSAT exam!
 
 My younger daughter is just that - young. She is a bundle of energy. River was able to use that energy to work to both of their advantage to learn - sometimes she’d have her running and doing mathematics all at once. They were up, they were down, they were outside - and learning all the while.
 
 She often had my children out doing science experiments, and learning together, but clearly at different levels. Though they have large age and demeanor differences, both children benefited and learned in their joint activities. I would strongly recommend her.”
 
-{{< figure src="beyblade.jpeg" caption="I used more than just legos! We played all sorts of games as we learned." alt="A picture of a beyblade, a small circular toy.">}}
+{{< figure src="beyblade.jpeg" caption="I used more than just legos! We played all sorts of games as we learned." alt="A beyblade, a small circular toy.">}}
 
-
-One of my favorite professional moments ever happened when I was worked with these two children. Each session, I’d start by teaching them separately and then, usually,  I’d work with them together. When I walked in, the first question I’d ask is “Ok, who’s going first?” Usually, it was clear who was more ready to work. But, one morning, when I asked who’s going first, one of them said “Me!”  Then the other said, “No, Mom said I'm going first!”
+One of my favorite professional moments ever happened when I was worked with these two children. Each session, I’d start by teaching them separately and then, usually,  I’d work with them together. When I walked in, the first question I’d ask is “Ok, who’s going first?” Usually, one kid would volunteer. But, one morning, when I asked who’s going first, one of them said “Me!”  Then the other said, “No, Mom said I'm going first!”
 
 I stopped them and checked with Mom before it turned into an argument, but the sheer enthusiasm they both showed for learning brought a big smile to my face.
 
