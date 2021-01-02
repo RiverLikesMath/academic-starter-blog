@@ -45,4 +45,4 @@ One of my favorite professional moments ever happened when I was worked with the
 
 I stopped them and checked with Mom before it turned into an argument, but the sheer enthusiasm they both showed for learning brought a big smile to my face.
 
-And finally, of  course, if you're looking for a creative, patient, intelligent tutor who can help your kids have some fun while they learn, [contact me!](about/#contact)
+And, of  course, if you're looking for a creative, patient, intelligent tutor who can help your kids have some fun while they learn, [contact me!](about/#contact)
