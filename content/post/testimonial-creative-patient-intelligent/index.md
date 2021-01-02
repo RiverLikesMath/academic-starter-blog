@@ -3,7 +3,8 @@
 
 title: 'Tutoring Testimonial: "Creative, Patient, Intelligent"'
 subtitle: ""
-summary: ""
+summary: "One parent took the time to write out a long testimonial for me, writing about how I worked with her two young kids and why that went so well. Here it is!"
+
 authors: []
 tags: [testimonial]
 categories: []
@@ -28,7 +29,7 @@ image:
 projects: []
 ---
 
-The mother of a couple of young kids had this to say about my tutoring:
+While I have [some testimonials](testimonials) over on my testimonial page, here's  a longer testimonial from a mother of two young children who was quite happy with my work:
 
 “River tutored my 10 year old son and my seven year old daughter. River has the ability to work with students in all areas, though she was particularly strong in math and science for my children. She is creative, she is patient, and of course she is intelligent.
 
