@@ -3,7 +3,7 @@
 
 title: "What I Teach"
 subtitle: ""
-summary: "I specalize in math, science, and computer programming. My students include professional developers, young children, high school students, you name it! Here's some of the topics I can help you with:"
+summary: "I specalize in math, science, and computer programming. My students include professional developers, young children, high school students, you name it! Here's some of the topics I can help you with..."
 authors: []
 tags: []
 categories: []
