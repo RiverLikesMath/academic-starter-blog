@@ -3,7 +3,7 @@
 
 title: "What I Teach"
 subtitle: ""
-summary: ""
+summary: "I specalize in math, science, and computer programming. My students include professional developers, young children, high school students, you name it! Here's some of the topics I can help you with:"
 authors: []
 tags: []
 categories: []
@@ -28,9 +28,7 @@ image:
 projects: []
 ---
 
-So, what does River tutor? I specialize in math, science, and computer programming. My students include professional developers, young children, and everyone in between! My understanding of math (and how to teach it), especially, is so thorough that I feel comfortable tutoring it at any level. 
-
- Here's some of the topics I can help you with: 
+So, what does River tutor? I specialize in math, science, and computer programming. My students include professional developers, young children, high school studenst, you name it! I feel comfortable teaching people of all aages and skill levels. Here's some of the topics I can help you with: 
 
 **Math**
  - Common Core math
