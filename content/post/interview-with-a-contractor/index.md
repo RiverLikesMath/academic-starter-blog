@@ -35,15 +35,15 @@ projects: []
 
 **River:** So, tell me a bit about what you do. 
 
-**Martin:** I'm a Building Contractor in Florida and a General Contractor in California. Right now I mostly do repairs of all kinds to residential work and light commercial work. Those repairs can involve electrical or plumbing or sheetrock or windows or doors or dryrot. I'm a Building Contractor in Miami and a General Contractor in California.
+**Martin:** I'm a General Contractor in California. Right now I mostly do repairs of all kinds to residential work and light commercial work. Those repairs can involve electrical or plumbing or sheetrock or windows or doors or dryrot.
 
 **River:** And what does that mean, to be a General Contractor? 
 
-**Martin:** It means I can build almost anything in residential or light commercial construction. I can't do engineering projects like roads or bridges or something like that. But pretty much anything that can be built I build as a general contractor.  
+**Martin:** It means I can build almost anything in residential or light commercial construction. I can't do engineering projects like roads or bridges or something like that. But pretty much anything that can be built I build as a general contractor.
 
 **River**: Do you use math in your repair work? 
 
-**Martin:** I use math literally every day, almost every hour that I work! I'm always measuring things. For example, if I have to build a wall 5 feet tall and I have a 1.5 inch bottom plate and an 1.5 inch top plate, and on top of that is a rafter or a joyce, I have to add all those numbers to to know what the length of my vertical stud would be. 
+**Martin:** I use math literally every day, almost every hour that I work! I'm always measuring things. For example, if I have to build a wall 5 feet tall and I have a 1.5 inch bottom plate and an 1.5 inch top plate, and on top of that is a rafter or a joist, I have to add all those numbers to to know what the length of my vertical stud would be. 
 
 {{< figure src="WallPanelDiagram.svg" caption=" The stud is part number 5 in the diagram, it helps hold up the wall. 'Wall Panel Diagram' by Ahp378 is licensed under [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)." alt="A diagram of a wall panel.">}}
 
@@ -70,15 +70,13 @@ Even though they don't remember the equation, they remember *3, 4, 5*.
 
 **Martin:** 3, 4, 5 triangles. In this case, I had two string lines and I used my tape measure with another carpenter. I was able to move my string lines to the left or the right in order to make that corner square.  
 
-Then I did it to the other three corners, and when I was finished, all four corners were square. Underneath that, I put in my foundations and ??? blocks, and all those were right smack under the lines that I had used for making my room square.
+Then I did it to the other three corners, and when I was finished, all four corners were square. Underneath that, I put in my foundation blocks and all those were right smack under the lines that I had used for making my room square.
 
 When you have a really big space, if you measure the diagonals, they have to be exactly the same length.
-
 
 **River:** They do! They do!
 
 **Martin:** And so I did that last week. After I did my 3, 4, 5 triangles I measured the diagonals and I was right on the money, not even a 16th of an inch off. That was satisying to know that geometry gave me a perfect square.
-
 
 **River:** Do you like math?
 
@@ -86,7 +84,7 @@ Oh, yeah! I've always been good with numbers. When someone tells me something co
 
 **River:** Did you like math when you were in school?
 
-**Martin:** Yeah. I really liked it in grammar school where it was mostly addition and subtraction and multiplication and divison. When I got into high school and college I did algebra and geometry. I loved geometry because it showed me how the world is put together, in angles, circles, squares, rectangles, parralelograms, everything! All of those things I have to do all the time in my work.
+**Martin:** Yeah. I really liked it in grammar school where it was mostly addition and subtraction and multiplication and divison. When I got into high school and college I did algebra and geometry. I loved geometry because it showed me how the world is put together, in angles, circles, squares, rectangles, parallelograms, everything! All of those things I have to do all the time in my work.
 
 There was a job in which I had to install a window that was an oval, so I knew I need two centers of focus and I had to take my string line and put a pencil on that string line and go around both of them at the same time. Then I took that and cut it out and gave it to the window contractor and the window contractor made it from my template. So that was fun!
 
