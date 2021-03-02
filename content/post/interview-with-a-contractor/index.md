@@ -43,12 +43,11 @@ projects: []
 
 **River**: Do you use math in your repair work? 
 
-**Martin:** I use math literally every day, almost every hour that I work! I'm always measuring things. For example, if I have to build a wall 5 feet tall and I have a 1.5 inch bottom plate and an 1.5 inch top plate, and on top of that is a rafter or a joist, I have to add all those numbers to to know what the length of my vertical stud would be. 
+**Martin:** I use math literally every day, almost every hour that I work! I'm always measuring things. For example, if I have to build a wall 5 feet tall, I have to calculate a bunch of numbers to figure out what the height of my vertical studs would be. The studs are on top of a piece of wood, and they have a piece of wood on top of them. So the studs would be a little shorter than 5 feet tall.
 
-{{< figure src="wallstuds.jpg" caption=" The wall studs are the long, standing pieces of wood in this picture. 'Looking Through Upstairs Bathroom Wall Studs' by Tim Ide is licensed under [CC BY SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)." alt="A diagram of a wall panel.">}}
+{{< figure src="wallstuds.jpg" caption=" Vertical studs are the tall pieces wood in this picture. 'Looking Through Upstairs Bathroom Wall Studs' by Tim Ide is licensed under [CC BY SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)." alt="A diagram of a wall panel.">}}
 
 It sounds real simple, but if you make a mistake, then the wall will be the wrong height.
-
 **River:** So what happens if the wall is the wrong height?
 
 **Martin:** Then I have to redo the wall, at my cost. I don't want to be making that kind of mistake.
