@@ -45,7 +45,7 @@ projects: []
 
 **Martin:** I use math literally every day, almost every hour that I work! I'm always measuring things. For example, if I have to build a wall 5 feet tall, I have to calculate a bunch of numbers to figure out what the height of my vertical studs would be. The studs are on top of a piece of wood, and they have a piece of wood on top of them. So the studs would be a little shorter than 5 feet tall.
 
-{{< figure src="wallstuds.jpg" caption=" Vertical studs are the tall pieces wood in this picture. 'Looking Through Upstairs Bathroom Wall Studs' by [Tim Ide](https://www.flickr.com/photos/13735318@N04) is licensed under [CC BY SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)." alt="An image of a construction site featuring a partially completed bathroom.">}}
+{{< figure src="wallstuds.jpg" caption=" Vertical studs are the tall pieces of wood in this picture. 'Looking Through Upstairs Bathroom Wall Studs' by [Tim Ide](https://www.flickr.com/photos/13735318@N04) is licensed under [CC BY SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)." alt="An image of a construction site featuring a partially completed bathroom.">}}
 
 It sounds real simple, but if you make a mistake, then the wall will be the wrong height.
 
