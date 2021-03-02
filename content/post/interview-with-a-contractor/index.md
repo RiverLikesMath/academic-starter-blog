@@ -45,7 +45,7 @@ projects: []
 
 **Martin:** I use math literally every day, almost every hour that I work! I'm always measuring things. For example, if I have to build a wall 5 feet tall and I have a 1.5 inch bottom plate and an 1.5 inch top plate, and on top of that is a rafter or a joist, I have to add all those numbers to to know what the length of my vertical stud would be. 
 
-{{< figure src="WallPanelDiagram.svg" caption=" The stud is part number 5 in the diagram, it helps hold up the wall. 'Wall Panel Diagram' by Ahp378 is licensed under [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)." alt="A diagram of a wall panel.">}}
+{{< figure src="wallstuds.jpg" caption=" The wall studs are the long, standing pieces of wood in this picture. 'Looking Through Upstairs Bathroom Wall Studs' by Tim Ide is licensed under [CC BY SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)." alt="A diagram of a wall panel.">}}
 
 It sounds real simple, but if you make a mistake, then the wall will be the wrong height.
 
