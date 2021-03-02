@@ -78,7 +78,7 @@ When you have a really big space, if you measure the diagonals, they have to be 
 
 **Martin:** And so I did that last week. After I did my 3, 4, 5 triangles I measured the diagonals and I was right on the money, not even a 16th of an inch off. That was satisying to know that geometry gave me a perfect square.
 
-**River:** Do you like math?
+**River:** So, do you like math?
 
 Oh, yeah! I've always been good with numbers. When someone tells me something costs x amount of dollars I can say "oh, that's so much per month or so much per day or so much per week". I like to be able to do that.
 
