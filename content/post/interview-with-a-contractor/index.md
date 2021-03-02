@@ -48,6 +48,7 @@ projects: []
 {{< figure src="wallstuds.jpg" caption=" Vertical studs are the tall pieces wood in this picture. 'Looking Through Upstairs Bathroom Wall Studs' by Tim Ide is licensed under [CC BY SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)." alt="A diagram of a wall panel.">}}
 
 It sounds real simple, but if you make a mistake, then the wall will be the wrong height.
+
 **River:** So what happens if the wall is the wrong height?
 
 **Martin:** Then I have to redo the wall, at my cost. I don't want to be making that kind of mistake.
