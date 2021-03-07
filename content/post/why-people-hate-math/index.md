@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Why People Hate Math"
-subtitle: ""
+subtitle: "Why I Love Math, Part 2"
 summary: ""
 authors: []
 tags: []
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+*This is the second post in a series on why I like math. The first post is [here](post/why-i-love-math)*
