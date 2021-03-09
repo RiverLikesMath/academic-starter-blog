@@ -5,7 +5,7 @@ title: "Martin Likes Math Too"
 subtitle: "An Interview With a Contractor"
 summary: "Martin Espinosa is a contractor who repairs houses and commercial properties and provides construction consulting. He’s also my dad! In this interview, I ask him about how he uses math in his construction business."
 authors: []
-tags: []
+tags: [Interview, Math, Real World Math]
 categories: []
 date: 2021-02-25T13:03:13-08:00
 lastmod: 2021-02-25T13:03:13-08:00
