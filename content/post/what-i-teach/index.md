@@ -37,6 +37,7 @@ So what does River tutor? I specialize in math, science, and computer programmin
  - Precalculus and Trigonometry
  - Calculus (including Multivariable Calculus)
  - Linear Algebra 
+ - Discrete Math
 
 **Science**
  - Physics (including AP Physics) 
@@ -46,7 +47,13 @@ So what does River tutor? I specialize in math, science, and computer programmin
 **Programming**
  - AP Computer Science
  - Scratch, logic, Python, and coding for kids
- - Web development 
+ 
+If you don't see the subject you're looking for here, [ask me about it!](about#contact) I might be able to help you or point you towards someone who can. 
 
-If you don't see the subject you're looking for here, [ask me about it!](about#contact) I still may be able to teach it, or point you in the direction of someone who can. 
+For example, even though I don't list web development under programming, I can help you learn some webdev skills. I also got help from some wonderful developers while making this website. They might be able to help you out if I can't.
+
+Another example: If you're working on a subject that I'm currently brushing up on (like Abstract Algebra), I might be able to help you out. In that example, I could help you with some of the earlier topics like sets, induction, and mathematical logic. If you're solving problems that involve the Sylow Theorems or ring homomorphisms, I can't help you with those yet. 
+
+In any case, I hope to hear from you soon!
+ 
 {{<figure src="bismuth_elephant.jpg" caption="'Bismuth Elephant' by ShadowDragon" alt="Drawing of an elephant's head. The elephant has bismuth eyes and tusks.">}}
