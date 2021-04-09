@@ -69,8 +69,11 @@ I tutor in person in Santa Rosa, California, and offer remote tutoring to studen
 * Young students (as young as four), students in their 80s, and everyone in between. 
 * People who are looking to add to their professional skillsets.
 * Neurodivergent students, including students with autism and ADHD. 
+* LGBTQ+ students. 
 
-I work mainly as a private tutor, but also have a ton of experience in the front of the classroom, working in after school programs, and working as a small group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
+I think deeply about how I can help every student I work with feel safe and comfortable. That's going to require different things for different people. For example, students with autism may need quieter environments and correct pronouns are important to almost all transgender students. 
+
+I work mainly as a private tutor, but also have a ton of experience in the front of the classroom, working in after school programs, and working as a smaIll group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
 
 Every lesson is customized for each student's strengths and needs. I can help you or your child learn advanced topics like calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, or master earlier topics like pre-algebra, early counting, or shapes.   
 
