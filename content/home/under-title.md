@@ -8,9 +8,9 @@ headless: true
 weight: 15
 
 design: 
-  columns: ":w1"
+  columns: "1"
 ---
-River Likes Math provides math, science, and programming to everyone. River has 15 years of experience in tutoring and education and has succesfully helped thousands of students. New students are eligible for a free 30 minute consultation, and we provide discounts for group work, pod learning, or for booking multiple sessions in advance.
+River Likes Math provides [math, science, and programming](post/what-i-teach) tutoring to everyone, from kids in school to developers and other professionals. River has 15 years of experience in tutoring and education and understands how people learn, what trips them up, and how to adapt her teaching style to the strengths and needs of each particular student. 
 
  [Contact us](about/#contact) to find out more! 
 ---
