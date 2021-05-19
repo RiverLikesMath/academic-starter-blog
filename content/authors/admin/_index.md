@@ -62,19 +62,22 @@ social:
 #- Visitors
 ---
 
-River Likes Math is a tutoring service specializing in math, science and programming. Our tutor is me, River Espinosa! For 15 years, I've been helping students of every background unlock their potential. 
+River Likes Math is a tutoring service specializing in [math, science and programming](post/what-i-teach). Our tutor is me, River Espinosa! For 15 years, I've been helping students of every background unlock their potential. 
 
-I tutor in person in Santa Rosa, California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and help with distance learning and pod learning. I can work with:
+I tutor in person in Santa Rosa, California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and help with distance learning and pod learning. 
+
+When you hire me, you can expect enthusiastic, excellent, creative tutoring in a comfortable, fun, and safe learning environment.  I can work with:
 
 * Young students (as young as four), students in their 80s, and everyone in between. 
 * People who are looking to add to their professional skillsets.
 * Neurodivergent students, including students with autism and ADHD. 
+* LGBTQ+ students, including transgender and non-binary students. 
 
-I work mainly as a private tutor, but also have a ton of experience in the front of the classroom, working in after school programs, and working as a small group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
+In addition to tutoring, I have a ton of experience in the front of the classroom, working in after school programs, and working as a small group teacher for struggling students. All that experience has given me a deep toolbox of teaching strategies and a keen understanding of how learning happens. 
 
-Every lesson is customized for each student's strengths and needs. I can help you or your child learn advanced topics like calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, or master earlier topics like pre-algebra, early counting, or shapes.   
+Every lesson is customized for each student's strengths and needs. I can help you or your child learn advanced topics like calculus, brush up on your physics, pick up linear algebra for those machine learning and AI jobs, or master earlier topics like pre-algebra, early counting, or shapes. 
 
-To book out a session or for more info, fill out the [contact form](#contact) below! 
+To book a session or for more info, fill out the [contact form](#contact) below! 
 
  
    
