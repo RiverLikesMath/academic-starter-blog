@@ -30,7 +30,7 @@ projects: []
 
 Today is March 14th (3/14), so that means it's Pi Day! This is, no lie, my favorite day of the year. 
 
-Pi is a number (about 3.1415926535879323846) that's the ratio between a circle's diameter and it's circumference. Pi's important when we talk about circles, electrical circuits, ocean waves, little tiny quantum particles, and all sorts of other stuff. 
+Pi is a number (about 3.1415926535879323846) that's the ratio between a circle's diameter and its circumference. Pi's important when we talk about circles, electrical circuits, ocean waves, little tiny quantum particles, and all sorts of other stuff. 
 
 Pi goes on to infinite decimal places. Some people know pi to hundreds of decimal places, but I only know 19. People often celebrate Pi Day with pie, too, and I plan to try and throw together a dessert of my own today.
 

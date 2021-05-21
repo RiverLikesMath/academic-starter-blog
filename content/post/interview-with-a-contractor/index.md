@@ -57,7 +57,7 @@ It sounds real simple, but if you make a mistake, then the wall will be the wron
 
 **Martin:** That's right!
 
-**River:** Is there any other ways that you use math while doing repairs?
+**River:** Are there any other ways that you use math while doing repairs?
 
 **Martin:** As a matter of fact, the shed that I'm building right now, I had to square it up to make sure it's exactly 12 feet by 12 feet. I ran string lines going in both directions and I used the Pythagorean Theorem (a² + b² = c² ). 
 
