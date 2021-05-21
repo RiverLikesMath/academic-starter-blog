@@ -66,7 +66,7 @@ River Likes Math is a tutoring service specializing in [math, science and progra
 
 I tutor in person in Santa Rosa, California, and offer remote tutoring to students around the US and internationally. I help individual students, but also teach group lessons and help with distance learning and pod learning. 
 
-When you hire me, you can expect enthusiastic, excellent, creative tutoring in a comfortable, fun, and safe learning environment.  I can work with:
+When you hire me, you can expect enthusiastic, excellent, creative tutoring in a comfortable, fun, and safe learning environment. I work with students from all sorts of backgrounds. For example, I tutor: 
 
 * Young students (as young as four), students in their 80s, and everyone in between. 
 * People who are looking to add to their professional skillsets.
