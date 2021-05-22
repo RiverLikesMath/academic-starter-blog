@@ -30,6 +30,30 @@ projects: []
 
 *This is the second post in a series on why I like math. The first post is [here.](post/why-i-love-math)*
 
+Not too long ago, I put out a call to my friends who dislike math. Everyone who knows me knows I love math, but I wanted to hear from people who don't. I got a lot of responses. 
+
+There's a lot of people out there who struggle with math. There's a lot of people who chose college degrees, jobs, careers just so they wouldn't have to every take another math class. I work with a lot of people who hate math. So, the question is, why? 
+
+I've been thinking about that question for a long time - fifteen years, now. The more I think about it, the more I learn. There isn't one reason that people hate math. There are so, so many. It could fill a book. I might write that book one daay. 
+
+I'm not one of those people. I love math. I always have. The first time I worked with a student who hated math, fifteen years ago, it shocked me. I think math is beautiful, an opportunity to be creative and have fun. Is that how you see it? Is that how most people see it? 
+
+So many people see math, and they think drudgery, boredom, confusion, fear. I've helped hundreds of students learn to love math, but it's usually a slow process. People are skeptical, at first, that math is something that we can enjoy. I have to teach carefully, with a lot of patience, point out students' successes, normalize their mistakes, and let my own joy spread to my students. 
+
+So, why? 
+
+**Every student is different. But Every student needs different things. A lot of students don't get what they need.**
+
+The brain is a wonderful, complicated, amazing thing. Every :brain is unique. Schools - especially when our parents were young - didn't always recognize this. I've heard stories of girls who were treated worse than boys, students with disabilities who were belittled and ignored, students who like to discuss and debate being told to be quiet.  
+
+One particularly heartbreaking story I hear over and over: someone's struggling with math, and an adult in their life says "maybe math just isn't for you." Math is for everybody, but we have this idea that there are math people and there's everyone else. That couldn't be further from the truth. 
+ 
+You can be you and still be good at math. You may not be able to do it exactly the same way everyone else does, but there's so many right ways to do math. When I was in college, I had a friend 
+**Teachers are really important**
+When I was in first grade, we had an art teacher. Every week, she would pick one student who made the best drawing, and give them a sticker. Every kid in that class got one of those stickers except for me. At that moment, when I was 6 years old, I decided I was bad at art. I believed it until I was 30. 
+
+Teachers *matter*. Kids trust teachers. Kids absorb what teachers say. WHen I put out my call for 
+
 A lot of people are afraid of math. They don't like it, it just went over their heads when they were a kid, it was fun until it wasn't. I've had students tell me, "just get me through this class so I don't have to take math anymore." So, the question is, why? 
 
 I'm not the only person to ask this question. Arushi Lohia of the India Times hates math enough to [write a post about it](https://www.indiatimes.com/lifestyle/here-are-9-reasons-why-people-hate-mathematics-361567.html). Phys.org has [an excellent writeup](https://phys.org/news/2017-10-people-maths.html) from someone who loves it. In their words: 
